@@ -1,5 +1,9 @@
 body {
     background: blue;
     border: 1px solid blue;
+<<<<<<< HEAD
     color: red;
+=======
+    font-family: 'Courier New', Courier, monospace;
+>>>>>>> feature-d
 }
